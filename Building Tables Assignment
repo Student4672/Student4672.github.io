@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>日本の人気アーティスト比較</title>
+
+    <style>
+        table, tr, td, th {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>日本の人気アーティスト比較</h1>
+
+    <table>
+        <caption>人気アーティストのランキングとヒット曲</caption>
+
+        <thead>
+            <tr>
+                <th colspan="4">日本の人気アーティスト3組の比較</th>
+            </tr>
+            <tr>
+                <th>アーティスト</th>
+                <th>2025年総合順位</th>
+                <th>2024年LINE MUSIC年間順位</th>
+                <th>1億回再生突破曲数と代表曲</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Mrs. GREEN APPLE</td>
+                <td>1位</td>
+                <td>1位</td>
+                <td>
+                    35曲<br>
+                    青と夏、ライラック、ケセラセラ
+                </td>
+            </tr>
+
+            <tr>
+                <td>back number</td>
+                <td>2位</td>
+                <td>2位</td>
+                <td>
+                    33曲<br>
+                    水平線、高嶺の花子さん、花束
+                </td>
+            </tr>
+
+            <tr>
+                <td>YOASOBI</td>
+                <td>9位</td>
+                <td>4位</td>
+                <td>
+                    23曲<br>
+                    夜に駆ける、アイドル、群青
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>表から分かること</h2>
+
+    <ol>
+        <li>Mrs. GREEN APPLEは2025年の総合順位で1位だった。</li>
+        <li>back numberは2025年の総合順位と2024年のLINE MUSIC順位でどちらも2位だった。</li>
+        <li>Mrs. GREEN APPLEは1億回再生を超えた曲が35曲あり、3組の中で最も多い。</li>
+    </ol>
+
+</body>
+</html>
